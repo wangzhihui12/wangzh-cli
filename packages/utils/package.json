@@ -1,0 +1,25 @@
+{
+  "name": "@wangzh-cli/utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "王志慧 <wangzh@didihu.com.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\""
+  },
+  "dependencies": {
+    "@wangzh-cli/core": "0.0.0"
+  }
+}

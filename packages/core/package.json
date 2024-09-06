@@ -1,0 +1,27 @@
+{
+  "name": "@wangzh-cli/core",
+  "version": "0.0.0",
+  "description": "wangzh-cli core",
+  "author": "王志慧 <wangzh@didihu.com.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\""
+  },
+  "dependencies": {
+    "@imooc-cli/utils": "^1.1.4",
+    "@wangzh-cli/utils":"0.0.0"
+
+  }
+}
