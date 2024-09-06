@@ -1,6 +1,6 @@
 {
   "name": "@wangzh-cli/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "wangzh-cli core",
   "author": "王志慧 <wangzh@didihu.com.cn>",
   "homepage": "",
@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "@imooc-cli/utils": "^1.1.4",
-    "@wangzh-cli/utils": "^0.0.1"
+    "@wangzh-cli/utils": "^0.0.2"
   }
 }
